@@ -130,3 +130,5 @@ dmypy.json
 
 .envrc
 .elexon_api_key
+
+/data
