@@ -3,6 +3,7 @@ Examples of accessing [BMRS](https://www.bmreports.com/bmrs/) data using the thi
 
 ![Power Generation by Type](elexon_power_generation.jpeg)
 
+
 # API Key
 
 To make requests to the BMRS service an account and API key is required - see the [documentation](https://www.elexon.co.uk/documents/training-guidance/bsc-guidance-notes/bmrs-api-and-data-push-user-guide-2/).
