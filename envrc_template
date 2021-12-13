@@ -1,0 +1,3 @@
+# Replace placeholder with your API key and rename file to .envrc
+# You will need to have direnv installed - https://direnv.net/
+export ELEXON_API_KEY="REPLACE ME"
