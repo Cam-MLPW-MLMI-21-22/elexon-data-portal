@@ -132,3 +132,6 @@ dmypy.json
 .elexon_api_key
 
 /data
+/models
+*.jpeg
+*.DS_Store
